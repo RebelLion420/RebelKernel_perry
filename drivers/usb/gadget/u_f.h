@@ -45,7 +45,7 @@
 struct usb_ep;
 struct usb_request;
 
-struct usb_request *alloc_ep_req(struct usb_ep *ep, int len, int default_len);
+struct usb_request *alloc_ep_req(struct usb_ep *ep, size_t len, int default_len);
 
 #endif /* __U_F_H__ */
 
