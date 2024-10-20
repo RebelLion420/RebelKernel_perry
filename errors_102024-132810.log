@@ -1,4 +1,0 @@
-../arch/arm/boot/dts/Makefile:525: warning: overriding recipe for target 'dtbs'
-../arch/arm/boot/dts/Makefile:525: warning: ignoring old recipe for target 'dtbs'
-Warning (reg_format): "reg" property in /soc/et320 has invalid length (4 bytes) (#address-cells == 1, #size-cells == 1)
-Warning (reg_format): "reg" property in /soc/et320 has invalid length (4 bytes) (#address-cells == 1, #size-cells == 1)
