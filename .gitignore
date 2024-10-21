@@ -99,8 +99,7 @@ all.config
 
 build.sh
 linux-stable.sh
-build-kernel
 out/
 AK3/
-error*.log
-error*.txt
+*.log
+*.txt
